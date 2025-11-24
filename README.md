@@ -19,6 +19,7 @@ It sends order summary emails to users after successful.
 - **Database:** MySQL
 - **Authentication:** JWT Token based
 
+---
 
 ## **Project Setup**
 
